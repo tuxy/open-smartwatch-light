@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name open-Smartwatch)(type Legacy)(uri ${KIPRJMOD}/lib/osw.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "open-Smartwatch")(type "Legacy")(uri "${KIPRJMOD}/lib/osw.lib")(options "")(descr ""))
+  (lib (name "osw-light-rescue")(type "KiCad")(uri "${KIPRJMOD}/osw-light-rescue.kicad_sym")(options "")(descr ""))
 )
